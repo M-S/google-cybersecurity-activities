@@ -1,6 +1,6 @@
-### Cybersecurity Incident Report:
+# Cybersecurity Incident Report:
 
-### Network Traffic Analysis
+# Network Traffic Analysis
 
 ## Part 1: Provide a summary of the problem found in the DNS and ICMP traffic log.
 
